@@ -1,0 +1,10 @@
+{
+    "name": "Cypress-Paralelism",
+    "version": "1.0.0",
+    "dependencies": {
+        "cypress": "^13.16.0"
+    },
+    "devDependencies": {
+        "cypress-split": "^1.24.5"
+    }
+}
