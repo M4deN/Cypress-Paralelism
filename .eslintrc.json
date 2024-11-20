@@ -1,0 +1,22 @@
+{
+    "env": {
+      "browser": true,
+      "node": true,
+      "cypress/globals": true
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:cypress/recommended"
+    ],
+    "plugins": [
+      "cypress"
+    ],
+    "rules": {
+      "semi": ["error", "always"],                    
+      "cypress/no-assigning-return-values": "error",     
+      "cypress/no-unnecessary-waiting": "off",          
+      "no-unused-vars": ["warn"],                        
+      "quotes": ["error", "single"]                      
+    }
+  }
+  
