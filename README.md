@@ -111,10 +111,6 @@ Cypress-Paralelism-CI/
 - **cypress-split**: Plugin para dividir os testes do Cypress em execuções paralelas.
 - **GitHub Actions**: Para automação de CI/CD, rodando os testes em paralelo.
 
-## Contribuindo
-
-Se você encontrar algum bug ou quiser melhorar o projeto, fique à vontade para criar uma **issue** ou abrir um **pull request**. Todos são bem-vindos para contribuir com melhorias e correções!
-
 ---
 
 ### Notas adicionais:
