@@ -67,6 +67,9 @@ Quando um novo commit é feito no repositório (ou um pull request é aberto), o
 3. Rodar o **ESLint** para garantir a qualidade do código.
 4. Executar os testes do **Cypress** em paralelo, distribuindo os testes para múltiplos containers, o que acelera a execução dos testes.
 
+![image](https://github.com/user-attachments/assets/f78723ef-073f-4f80-aef7-319b93049001)
+
+
 ### Uso do **`cypress-split`**
 
 O plugin **`cypress-split`** é utilizado para dividir os testes do Cypress em múltiplas execuções paralelas, otimizando o tempo de execução. Ele funciona bem com a estratégia de **matriz** do GitHub Actions, permitindo que os testes sejam divididos igualmente entre os containers especificados.
