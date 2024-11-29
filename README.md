@@ -1,6 +1,6 @@
 # Cypress-Paralelism-CI
 
-curso-cypress-playground
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/M4deN/Cypress-Paralelism/ci.yml?label=Test%20Workflows&logo=Cypress&style=for-the-badge)
 
 ---
 
