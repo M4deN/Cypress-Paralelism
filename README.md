@@ -1,6 +1,6 @@
 # Cypress-Paralelism-CI
- 
-Claro! Aqui está o **README** atualizado, incluindo informações sobre o uso do plugin **`cypress-split`** para dividir os testes em paralelo.
+
+curso-cypress-playground
 
 ---
 
